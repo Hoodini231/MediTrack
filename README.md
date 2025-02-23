@@ -1,6 +1,9 @@
 # MediTrack - Centralized Patient Monitoring System
 
-MediTrack is a **real-time, centralized patient monitoring system** designed to assist **nurses in hospital wards**. The platform integrates **nurse scheduling, patient monitoring, data analytics, and AI-driven insights** to improve response time and patient care.
+MediTrack is a **real-time, centralized patient monitoring system** signed to assist **nurses in hospital wards**. The platform integrates nurse scheduling, patient monitoring, data analytics, and AI-driven insights** to improve response time and patient care.
+
+<img width="1490" alt="image" src="https://github.com/user-attachments/assets/ac390995-ccfb-4d58-aab6-785fcd483a9a" />
+
 
 ### 🔗 Live Demo (if applicable)
 [Access MediTrack](#)
